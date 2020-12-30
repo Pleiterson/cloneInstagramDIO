@@ -18,16 +18,13 @@
 <!--About session-->
 <h1 align="center">Criando um clone do Instagram com React Native<br>Digital Innovation One</h1>
 
-<img src="./src/assets/badge.png" title="Badge" width="70" height="70">
+<img src="./src/assets/readme/badge.png" title="Badge" width="70" height="70">
 
 Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
 Nesse projeto você irá clonar a interface da página de feed de postagens do app Instagram, utilizando React Native, os Hooks do React para controle de estado, a versão 5 do React Navigation para roteamento de telas na aplicação, a lib Animated do React Native, a criar um Back-end com apenas um JSON para listagem das publicações no app e muitos mais!
 
-<!-- - [Projeto desenvolvido](https://clone-netflix.vercel.app/)
-
-<p align="center"><img src="./src/assets/img/projeto.gif" title="Clone do Instagram - DIO"></p>
-<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="Clone do Instagram - DIO"></p> -->
+<p align="center"><img src="./src/assets/readme/projeto.png" title="Clone do Instagram - DIO"></p>
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
