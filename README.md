@@ -12,7 +12,7 @@
 
 <!--Banner session-->
 <p align="center">
-  <img src="./src/assets/banner.png" alt="DIO" title="Digital Innovation One">
+  <img src="./src/assets/readme/banner.png" alt="DIO" title="Digital Innovation One">
 </p>
 
 <!--About session-->
@@ -36,11 +36,9 @@ Nesse projeto você irá clonar a interface da página de feed de postagens do a
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Eslint](https://github.com/eslint/eslint)
 - [@react-navigation](https://reactnavigation.org/docs/getting-started/)
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - [styled-components](https://styled-components.com/docs)
 - [axios](https://github.com/axios/axios)
 - [jason-server](https://github.com/typicode/json-server)
-- [HTTPs](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 <!--License session-->
 <h3>📝 Licença</h3>
