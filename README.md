@@ -26,8 +26,8 @@ Nesse projeto você irá clonar a interface da página de feed de postagens do a
 
 <!-- - [Projeto desenvolvido](https://clone-netflix.vercel.app/)
 
-<p align="center"><img src="./src/assets/img/projeto.gif" title="HTTPs e Navegação - DIO"></p>
-<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="HTTPs e Navegação - DIO"></p> -->
+<p align="center"><img src="./src/assets/img/projeto.gif" title="Clone do Instagram - DIO"></p>
+<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="Clone do Instagram - DIO"></p> -->
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
@@ -35,10 +35,11 @@ Nesse projeto você irá clonar a interface da página de feed de postagens do a
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Eslint](https://github.com/eslint/eslint)
+- [jason-server](https://github.com/typicode/json-server)
 - [@react-navigation](https://reactnavigation.org/docs/getting-started/)
 - [styled-components](https://styled-components.com/docs)
 - [axios](https://github.com/axios/axios)
-- [jason-server](https://github.com/typicode/json-server)
+- [prop-types](https://www.npmjs.com/package/prop-types)
 
 <!--License session-->
 <h3>📝 Licença</h3>
